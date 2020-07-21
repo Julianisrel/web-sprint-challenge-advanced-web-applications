@@ -29,7 +29,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain what a token is used for.
 -- Tokens are used to like a key that authenticate you to access webpages and/or resources on the internet.
-
+--local storage 
 
 2. What steps can you take in your web apps to keep your data secure?
 -- Use an authentication system, require strong passwords, use mulifactor authentication, sanitizing and validating user input.

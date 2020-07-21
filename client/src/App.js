@@ -4,7 +4,7 @@ import ProtectedRoute from './components/PrivateRoute';
 import Login from "./components/Login";
 import "./styles.scss";
 import BubblePage from './components/BubblePage';
-import ColorList from './components/ColorList';
+
 function App() {
   return (
     <Router>
